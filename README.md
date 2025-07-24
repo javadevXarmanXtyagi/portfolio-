@@ -41,7 +41,7 @@ Welcome to my personal **portfolio website**, built using **HTML, CSS, and JavaS
 
 ## 🔗 Live Demo
 
-🚀 [Click here to view live](https://your-netlify-site-url.netlify.app)
+🚀 [Click here to view live]([https://your-netlify-site-url.netlify.app](https://flourishing-faloodeh-a50348.netlify.app/))
 
 ---
 
