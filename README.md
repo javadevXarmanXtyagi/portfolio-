@@ -48,8 +48,7 @@ Welcome to my personal **portfolio website**, built using **HTML, CSS, and JavaS
 ## 📥 How to Use
 
 1. Clone this repo:
-   git clone https://github.com/javadevXarmanXtyagi/portfolio.git
-
+[   git clone https://github.com/javadevXarmanXtyagi/portfolio.git]
 
 ## 📬 Contact Me
 Email: armantyagi2002@gmail.com
